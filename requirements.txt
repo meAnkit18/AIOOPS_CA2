@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytest
+httpx
+joblib
+pandas
+numpy
+scikit-learn==1.6.1
